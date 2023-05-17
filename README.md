@@ -14,6 +14,7 @@ I'm passionate about Java development, I've honed my skills through self-directe
 * GIT
 * HTML/CSS
 * Lombok
+* Maven
 * JUnit
 
 
