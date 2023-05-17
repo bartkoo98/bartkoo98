@@ -6,12 +6,14 @@ I'm passionate about Java development, I've honed my skills through self-directe
 
 ### :hammer_and_wrench: Tech I work on:
 * Java
-* Spring(currently focused on)
+* Spring Boot
+* Spring Framework(currently focused on)
 * Thymeleaf
 * MySQL
 * H2 Database
 * GIT
 * HTML/CSS
-
+* Lombok
+* JUnit
 
 
