@@ -7,14 +7,11 @@ I'm passionate about Java development, I've honed my skills through self-directe
 ### :hammer_and_wrench: Tech I work on:
 * Java
 * Spring Boot
-* Spring Framework(currently focused on)
-* Thymeleaf
-* MySQL
-* H2 Database
+* Spring Framework
+* SQL(MySQL, PostgreSQL, H2)
 * GIT
+* Testing tools(JUnit, Mockito, AssertJ)
 * HTML/CSS
-* Lombok
 * Maven
-* JUnit
 
 
