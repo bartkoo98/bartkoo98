@@ -8,10 +8,11 @@ I'm passionate about Java development, I've honed my skills through self-directe
 * Java
 * Spring Boot
 * Spring Framework
-* SQL(MySQL, PostgreSQL, H2)
+* SQL(PostgreSQL, H2)
 * GIT
 * Testing tools(JUnit, Mockito, AssertJ)
-* HTML/CSS
+* Docker
+* Flyway
 * Maven
 
 
